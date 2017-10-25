@@ -1,6 +1,6 @@
 {
-    "name": "laravel-shield/skeleton",
-    "description": "A skeleton project.",
+    "name": "laravel-shield/shopify",
+    "description": "A shopify service for shield.",
     "type": "library",
     "license": "MIT",
     "authors": [
