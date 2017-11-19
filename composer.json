@@ -1,6 +1,7 @@
 {
     "name": "laravel-shield/shopify",
     "description": "A shopify service for shield.",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "authors": [
